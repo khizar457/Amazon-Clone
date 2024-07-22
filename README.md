@@ -12,7 +12,10 @@ Cloning Amazon site with HTML & CSS
 </p>
 
 <h3>Preview of Amazon-Clone</h3>
+
+
 ![Part-1](https://github.com/khizar457/Amazon-Clone/blob/main/assets/demo_pics/Part-1.jpg)
+
 
 ![Part-2](https://github.com/khizar457/Amazon-Clone/blob/main/assets/demo_pics/Part-2.jpg)
 
